@@ -6,7 +6,10 @@ PID controller implementation was done in arduino.
 Matlab implementations soon to be updated.
 
 
-#References:
-[Accelerometer Angle tilt Calculation](
+# References:
+- Book followed for the study : [Modern Control Engineering by Ogata](https://www.digikey.com/en/articles/techzone/2011/may/using-an-accelerometer-for-inclination-sensing)
+
+# Links:
+- [Accelerometer Angle tilt Calculation](
 https://www.digikey.com/en/articles/techzone/2011/may/using-an-accelerometer-for-inclination-sensing1)
 

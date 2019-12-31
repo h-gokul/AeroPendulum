@@ -94,7 +94,7 @@ void loop()
   if (i > 190 || i < 0)
     i = 190;
 
-  // writing the input to user.  
+  // writing the input to the system for subsequent operation.  
   analogWrite(3, byte(i)); 
  
   previ = i;

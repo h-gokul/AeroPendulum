@@ -4,3 +4,9 @@ Learning classical control theory with a practical implementation - [Aerothrust 
 PID controller implementation was done in arduino.
 
 Matlab implementations soon to be updated.
+
+
+#References:
+[Accelerometer Angle tilt Calculation](
+https://www.digikey.com/en/articles/techzone/2011/may/using-an-accelerometer-for-inclination-sensing1)
+

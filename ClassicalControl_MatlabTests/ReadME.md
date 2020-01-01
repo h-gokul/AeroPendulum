@@ -1,2 +1,2 @@
-- Open Loop Response contains the parameter identification Experiment Procedure to build the mathematical model relationship and transfer function of the system for Feed back linearization.
-- StepResponse tests contain the Simulation procedure for identifying Kp for Proportional Controller design based on assumed plant constants (ie Transfer Function coefficients)
+- OpenLoop  contains the parameter identification Experiment Procedure to build the mathematical model relationship and transfer function of the system for Feed back linearization.
+- StepResponseAnalysis tests contain the Simulation procedure for identifying Kp for Proportional Controller design based on assumed plant constants (ie Transfer Function coefficients)

@@ -7,9 +7,8 @@ Experiment/ Simulations for Parameter Identification and System Modeling was don
 Bode Plot Analysis and Lead/Lag Compensator Designs soon to be updated.
 
 ### Inverted Pendulum
-System Modelling was done in Matlab.
-Controller Design done
-A complete Invereted Pendulum system model and the closed loop PID Controller was designed using Simulink.
+System Modelling and Analysis was done in Matlab.
+A complete Inverted Pendulum system model and the closed loop PID Controller was designed using Simulink.
 
 # References:
 - Book followed for the study : [Modern Control Engineering by Ogata](https://www.digikey.com/en/articles/techzone/2011/may/using-an-accelerometer-for-inclination-sensing)

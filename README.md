@@ -1,5 +1,5 @@
 # ControlPendulum
-Learning classical control theory with a practical implementation of two types of Pendulums - [Aerothrust Pendulum](http://aeropendulum.arizona.edu/), a project based on University of Arizona's associate professor Dr. Eniko T. Enikov and [Inverted Pendulum](http://ctms.engin.umich.edu/CTMS/index.php?example=BallBeam&section=SystemModeling) 
+Learning classical control theory with a practical implementation of two types of Pendulums - [Aerothrust Pendulum](http://aeropendulum.arizona.edu/), and [Inverted Pendulum](http://ctms.engin.umich.edu/CTMS/index.php?example=BallBeam&section=SystemModeling) 
 
 ### AeroThrust Pendulum
 PID controller implementation of AeroThrust Pendulum was done in arduino for real-time.
